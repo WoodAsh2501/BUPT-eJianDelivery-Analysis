@@ -12,3 +12,5 @@
 
 ## 报告框架
 目前只有比较粗略的想法，欢迎在issue中一起讨论
+
+![问卷二维码](https://media.woodash.cc/obsidian/7c0bb45caf7bc83ff4094c54fed5ea96.png)
